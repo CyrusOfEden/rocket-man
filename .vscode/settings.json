@@ -1,0 +1,12 @@
+{
+  "python.pythonPath": "/Users/knrz/Library/Caches/pypoetry/virtualenvs/rocket-man--u2EOdIP-py3.8/bin/python",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/__pycache__": true
+  },
+  "jupyter.jupyterServerType": "remote"
+}
